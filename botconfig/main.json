@@ -1,0 +1,20 @@
+{
+  "clienttoken": "ODM0NDczNjg2ODc3OTk1MDI5.YIBaLg.Ww8b7zXf5sn-3-qdxrDP4TwDiTY",
+  "clientname": "HOLYBot",
+  "clientid": "834473686877995029",
+  "TestingServerID": "909908492515692574",
+  "clientavatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOfQ_Mry9O3XF-v92UqhdvpUhkqEsLt73uo8ADhnYH6rmAzy6uyeq8WRrBR-4HY8qLux8&usqp=CAU",
+  "prefix": "-",
+  "developerID": "317297460886110208",
+  "colorthemecode": "#FF5733",
+  "randomMessages_Cooldown": "Slow It Down Fam...",
+  "everyoneMention": true,
+  "hostedBy": true,
+  "guildId": "789584167591346257",
+  "mysql_host": "mariadb-holy.database.svc.cluster.local",
+  "mysql_user": "xpdb",
+  "mysql_password": "XuRz(N@VAxLnuGz(",
+  "mysql_database": "xpdb",
+  "levelXP": 650,
+  "levelUpChannel": "834750265188941854"
+}
